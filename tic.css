@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@700&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#head{
+    text-align: center;
+    margin-top: 150px;
+    font-family: 'Cormorant', serif;
+    letter-spacing: 3px;
+}
+
+#sub{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Cormorant', serif;
+    letter-spacing: 2px;
+}
+
+.pl{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Cormorant', serif;
+    letter-spacing: 2px;
+}
+
+.line{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+input{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border: solid 2px black;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Cormorant', serif;
+    letter-spacing: 2px;
+}
+
+#b3,#b2,#b6,#b5,#b8,#b9{
+    margin-left: 40px;
+}
+
+#b4,#b7,#b1{
+    margin-left: 500px;
+}
+
+#b1,#b2,#b3{
+    margin-top: 30px;
+}
+
+#button{
+    text-align: center;
+    border: solid black 2px;
+    border-radius: 40px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 890px;
+    font-family: 'Cormorant', serif;
+    letter-spacing: 2px;
+}
+
+#out{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Cormorant', serif;
+    letter-spacing: 2px;
+}
+
+body{
+    background-color: antiquewhite;
+}
